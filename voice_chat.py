@@ -3,7 +3,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Настройка OpenAI API (ключ на platform.openai.com)
-openai.api_key = "ваш_api_ключ"
+openai.api_key = "api_ключ"
 
 # Инициализация голосового движка
 engine = pyttsx3.init()
